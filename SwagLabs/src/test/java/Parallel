@@ -2,7 +2,7 @@
 <suite name = "Parallel">
    <test name = "Parallel Tests">
       <classes>
-         <class name = "testNG" />
+         <class name = "LoginTestNg" />
       </classes>
    </test>
 </suite>
